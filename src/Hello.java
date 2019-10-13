@@ -1,6 +1,6 @@
 public class Hello {
     public static void main(String[] args) {
-        System.out.println("hh");
-        System.out.println("gg");
+        System.out.println("hf");
+        System.out.println("gf");
     }
 }
